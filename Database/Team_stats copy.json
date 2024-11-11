@@ -1,0 +1,256 @@
+{
+    "teams": [
+        {
+            "club_name": "AC Milan",
+            "home_prob_att": 0.65,
+            "home_prob_def": 0.60,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.50
+        },
+        {
+            "club_name": "Arsenal",
+            "home_prob_att": 0.70,
+            "home_prob_def": 0.65,
+            "away_prob_att": 0.60,
+            "away_prob_def": 0.55
+        },
+        {
+            "club_name": "Aston Villa",
+            "home_prob_att": 0.60,
+            "home_prob_def": 0.58,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.50
+        },
+        {
+            "club_name": "Atalanta",
+            "home_prob_att": 0.68,
+            "home_prob_def": 0.62,
+            "away_prob_att": 0.57,
+            "away_prob_def": 0.53
+        },
+        {
+            "club_name": "Atletico Madrid",
+            "home_prob_att": 0.67,
+            "home_prob_def": 0.75,
+            "away_prob_att": 0.60,
+            "away_prob_def": 0.70
+        },
+        {
+            "club_name": "Barcelona",
+            "home_prob_att": 0.80,
+            "home_prob_def": 0.65,
+            "away_prob_att": 0.70,
+            "away_prob_def": 0.60
+        },
+        {
+            "club_name": "Bayer Leverkusen",
+            "home_prob_att": 0.65,
+            "home_prob_def": 0.60,
+            "away_prob_att": 0.60,
+            "away_prob_def": 0.55
+        },
+        {
+            "club_name": "Bayern Munich",
+            "home_prob_att": 0.85,
+            "home_prob_def": 0.70,
+            "away_prob_att": 0.75,
+            "away_prob_def": 0.65
+        },
+        {
+            "club_name": "Benfica",
+            "home_prob_att": 0.65,
+            "home_prob_def": 0.60,
+            "away_prob_att": 0.60,
+            "away_prob_def": 0.55
+        },
+        {
+            "club_name": "Bologna",
+            "home_prob_att": 0.55,
+            "home_prob_def": 0.50,
+            "away_prob_att": 0.50,
+            "away_prob_def": 0.45
+        },
+        {
+            "club_name": "Borussia Dortmund",
+            "home_prob_att": 0.72,
+            "home_prob_def": 0.68,
+            "away_prob_att": 0.62,
+            "away_prob_def": 0.60
+        },
+        {
+            "club_name": "Brest",
+            "home_prob_att": 0.55,
+            "home_prob_def": 0.52,
+            "away_prob_att": 0.50,
+            "away_prob_def": 0.47
+        },
+        {
+            "club_name": "Celtic",
+            "home_prob_att": 0.60,
+            "home_prob_def": 0.58,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.50
+        },
+        {
+            "club_name": "Club Brugge",
+            "home_prob_att": 0.60,
+            "home_prob_def": 0.58,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.53
+        },
+        {
+            "club_name": "Dinamo Zagreb",
+            "home_prob_att": 0.55,
+            "home_prob_def": 0.50,
+            "away_prob_att": 0.50,
+            "away_prob_def": 0.45
+        },
+        {
+            "club_name": "Feyenoord",
+            "home_prob_att": 0.70,
+            "home_prob_def": 0.65,
+            "away_prob_att": 0.60,
+            "away_prob_def": 0.58
+        },
+        {
+            "club_name": "Girona",
+            "home_prob_att": 0.65,
+            "home_prob_def": 0.60,
+            "away_prob_att": 0.58,
+            "away_prob_def": 0.53
+        },
+        {
+            "club_name": "Inter Milan",
+            "home_prob_att": 0.78,
+            "home_prob_def": 0.70,
+            "away_prob_att": 0.68,
+            "away_prob_def": 0.65
+        },
+        {
+            "club_name": "Juventus",
+            "home_prob_att": 0.70,
+            "home_prob_def": 0.72,
+            "away_prob_att": 0.65,
+            "away_prob_def": 0.68
+        },
+        {
+            "club_name": "Lille",
+            "home_prob_att": 0.65,
+            "home_prob_def": 0.60,
+            "away_prob_att": 0.58,
+            "away_prob_def": 0.55
+        },
+        {
+            "club_name": "Liverpool",
+            "home_prob_att": 0.80,
+            "home_prob_def": 0.70,
+            "away_prob_att": 0.75,
+            "away_prob_def": 0.68
+        },
+        {
+            "club_name": "Manchester City",
+            "home_prob_att": 0.85,
+            "home_prob_def": 0.72,
+            "away_prob_att": 0.80,
+            "away_prob_def": 0.68
+        },
+        {
+            "club_name": "Monaco",
+            "home_prob_att": 0.65,
+            "home_prob_def": 0.62,
+            "away_prob_att": 0.60,
+            "away_prob_def": 0.55
+        },
+        {
+            "club_name": "Paris Saint-Germain",
+            "home_prob_att": 0.85,
+            "home_prob_def": 0.72,
+            "away_prob_att": 0.80,
+            "away_prob_def": 0.70
+        },
+        {
+            "club_name": "PSV Eindhoven",
+            "home_prob_att": 0.70,
+            "home_prob_def": 0.65,
+            "away_prob_att": 0.65,
+            "away_prob_def": 0.60
+        },
+        {
+            "club_name": "RB Leipzig",
+            "home_prob_att": 0.75,
+            "home_prob_def": 0.70,
+            "away_prob_att": 0.70,
+            "away_prob_def": 0.65
+        },
+        {
+            "club_name": "Real Madrid",
+            "home_prob_att": 0.85,
+            "home_prob_def": 0.75,
+            "away_prob_att": 0.80,
+            "away_prob_def": 0.70
+        },
+        {
+            "club_name": "Red Star Belgrade",
+            "home_prob_att": 0.50,
+            "home_prob_def": 0.55,
+            "away_prob_att": 0.45,
+            "away_prob_def": 0.50
+        },
+        {
+            "club_name": "Salzburg",
+            "home_prob_att": 0.60,
+            "home_prob_def": 0.58,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.52
+        },
+        {
+            "club_name": "Shakhtar Donetsk",
+            "home_prob_att": 0.60,
+            "home_prob_def": 0.55,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.50
+        },
+        {
+            "club_name": "Slovan Bratislava",
+            "home_prob_att": 0.50,
+            "home_prob_def": 0.48,
+            "away_prob_att": 0.45,
+            "away_prob_def": 0.42
+        },
+        {
+            "club_name": "Sparta Prague",
+            "home_prob_att": 0.60,
+            "home_prob_def": 0.55,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.50
+        },
+        {
+            "club_name": "Sporting CP",
+            "home_prob_att": 0.65,
+            "home_prob_def": 0.60,
+            "away_prob_att": 0.60,
+            "away_prob_def": 0.55
+        },
+        {
+            "club_name": "Sturm Graz",
+            "home_prob_att": 0.55,
+            "home_prob_def": 0.50,
+            "away_prob_att": 0.50,
+            "away_prob_def": 0.45
+        },
+        {
+            "club_name": "Stuttgart",
+            "home_prob_att": 0.60,
+            "home_prob_def": 0.55,
+            "away_prob_att": 0.55,
+            "away_prob_def": 0.50
+        },
+        {
+            "club_name": "Young Boys",
+            "home_prob_att": 0.57,
+            "home_prob_def": 0.50,
+            "away_prob_att": 0.46,
+            "away_prob_def": 0.48
+        }
+    ]
+}
